@@ -19,8 +19,8 @@
     float minDX = 160;
     float minDY = 60;
     int rangeDX = 80;
-    // hate 40
-    int rangeDY = 40;
+    // hate 40 ->210
+    int rangeDY = 210;
     
     NSLog(@"nervous910 ADD This Log for getenateHills");
     
