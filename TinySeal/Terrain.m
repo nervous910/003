@@ -22,6 +22,8 @@
     // hate 40
     int rangeDY = 120;
     
+    NSLog(@"nervous910 ADD This Log for getenateHills");
+    
     float x = -minDX;
     float y = winSize.height/2-minDY;
     
